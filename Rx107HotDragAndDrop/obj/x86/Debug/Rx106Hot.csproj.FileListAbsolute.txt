@@ -1,0 +1,15 @@
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\bin\Debug\Rx101Hot.exe
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\bin\Debug\Rx101Hot.pdb
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\bin\Debug\System.Reactive.dll
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\bin\Debug\System.Reactive.xml
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\MainWindow.baml
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\App.g.cs
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\Rx101Hot_MarkupCompile.cache
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\Rx101Hot.g.resources
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\Rx101Hot.Properties.Resources.resources
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\Rx101Hot.exe
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101Hot\obj\x86\Debug\Rx101Hot.pdb

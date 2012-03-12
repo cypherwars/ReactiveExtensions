@@ -1,0 +1,6 @@
+﻿<xapCache source="C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\ReactiveUI.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12-Mar-12 10:57:46 PM">
+  <file source="C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\ReactiveUI.dll" archivePath="ReactiveUI.dll" lastWriteTime="12-Mar-12 10:57:46 PM" />
+  <file source="C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\ReactiveUI\packages\Rx-Main.1.0.11226\lib\SL4\System.Reactive.dll" archivePath="System.Reactive.dll" lastWriteTime="27-Feb-12 8:44:15 PM" />
+  <file source="C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\ReactiveUI\packages\Rx-Silverlight.1.0.11226\lib\SL4\System.Reactive.Windows.Threading.dll" archivePath="System.Reactive.Windows.Threading.dll" lastWriteTime="27-Feb-12 8:44:34 PM" />
+  <file source="C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12-Mar-12 10:57:46 PM" />
+</xapCache>

@@ -1,0 +1,12 @@
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\Rx106Hot.exe.config
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\Rx106Hot.exe
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\Rx106Hot.pdb
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\RestSharp.dll
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\System.Reactive.dll
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\bin\Debug\System.Reactive.xml
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\obj\x86\Debug\Rx106Hot.exe
+C:\Users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx106Hot\obj\x86\Debug\Rx106Hot.pdb

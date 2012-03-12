@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="389B13B3-464F-4E69-8B36-434E566E5AFA" ModuleId="Rx101" />
+  <Module PersistentId="169977E3-AC7B-43FF-8ADA-4AED48ED2371" ModuleId="Rx102_Subjects" />
+  <Module PersistentId="CD423B39-4BA4-4DA3-9DDA-79F0E8208183" ModuleId="Rx103-TuneIntoMrObservables" />
+  <Module PersistentId="B5E9ADC1-6AA7-456A-A94E-512D877E8B74" ModuleId="Rx104LifeCycleManagement" />
+  <Module PersistentId="1582D927-03D6-4370-A9D0-2DB3C8C59DDB" ModuleId="Rx101HotandCold" />
+  <Module PersistentId="CF029A9C-96D9-499F-BDF5-F58525C3C9B8" ModuleId="Rx106Hot_1" />
+  <Module PersistentId="D7965BD0-CBED-4AB9-B9E4-3D87BC6BD3D4" ModuleId="Rx108ReactiveUI" />
+  <Module PersistentId="1D87EDCE-BE54-4CD4-AEA3-A9A7855DE2E5" ModuleId="Rx107HotDragAndDrop" />
+</Modules>

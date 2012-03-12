@@ -1,0 +1,6 @@
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101HotandCold\bin\Release\Rx101HotandCold.exe
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101HotandCold\bin\Release\Rx101HotandCold.pdb
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101HotandCold\bin\Release\System.Reactive.dll
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101HotandCold\bin\Release\System.Reactive.xml
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101HotandCold\obj\x86\Release\Rx101HotandCold.exe
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101HotandCold\obj\x86\Release\Rx101HotandCold.pdb

@@ -1,0 +1,6 @@
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\bin\Release\Rx101.exe
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\bin\Release\Rx101.pdb
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\bin\Release\System.Reactive.dll
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\bin\Release\System.Reactive.xml
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\obj\x86\Release\Rx101.exe
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\obj\x86\Release\Rx101.pdb

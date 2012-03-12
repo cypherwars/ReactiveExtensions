@@ -1,0 +1,16 @@
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\ReactiveUI.dll
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\ReactiveUI.pdb
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\AppManifest.xaml
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\ReactiveUI.xap
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\ReactiveUITestPage.html
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\System.Reactive.dll
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\System.Reactive.Windows.Threading.dll
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\System.Reactive.xml
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\Bin\Debug\System.Reactive.Windows.Threading.xml
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\App.g.i.cs
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\MainPage.g.i.cs
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\ReactiveUI.g.resources
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\ReactiveUI.dll
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\ReactiveUI.pdb
+c:\users\ashutosh\documents\visual studio 2010\Projects\ReactiveUI\ReactiveUI\obj\Debug\XapCacheFile.xml
