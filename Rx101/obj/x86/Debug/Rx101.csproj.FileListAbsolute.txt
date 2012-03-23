@@ -4,3 +4,4 @@ c:\users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101\bin\Debug\Sy
 c:\users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101\bin\Debug\System.Reactive.xml
 c:\users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101\obj\x86\Debug\Rx101.exe
 c:\users\ashutosh\documents\visual studio 2010\Projects\Rx101\Rx101\obj\x86\Debug\Rx101.pdb
+C:\Users\ashutosh\Documents\Visual Studio 2010\Projects\Rx101\Rx101\obj\x86\Debug\Rx101.csprojResolveAssemblyReference.cache
